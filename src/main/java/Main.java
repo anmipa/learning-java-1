@@ -20,7 +20,6 @@ public class Main {
     }
 }
 
-
 // for testing use
 // moido kaso simo pasi samo pamu kon piika kissa aino pisa kona poika kalle oona
 
