@@ -1,2 +1,2 @@
 # learning-java-1
-Learnin Java, part 1
+Learning Java, part 1
